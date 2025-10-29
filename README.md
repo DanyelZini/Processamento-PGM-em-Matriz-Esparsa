@@ -23,7 +23,7 @@ Nesta tela é possível:
 
 <div align="center" style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
   <figure style="margin:0; text-align:center; width:350px;">
-    <img src="./matriz/img/TelaEntrada.png"
+    <img src="./img/TelaEntrada.png"
          alt="Tela inicial do aplicativo."
          title="Tela inicial"
          style="display:block; margin:0 auto; max-width:100%; height:auto; border-radius:6px;">
@@ -41,7 +41,7 @@ Nesta tela o usuário:
 <div align="center" style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
 
   <figure style="margin:0; text-align:center; width:350px;">
-    <img src="./matriz/img/exemplo_imagem.png"
+    <img src="./img/exemplo_imagem.png"
          alt="Exemplo de imagem em escala de cinza."
          title="Imagem em escala de cinza"
          style="display:block; margin:0 auto; max-width:100%; height:auto; border-radius:6px;">
@@ -49,7 +49,7 @@ Nesta tela o usuário:
   </figure>
 
   <figure style="margin:0; text-align:center; width:350px;">
-    <img src="./matriz/img/exemplo_exportar.png"
+    <img src="./img/exemplo_exportar.png"
          alt="Exemplo da exportacao da matriz esparsa"
          title="Exportacao da matriz"
          style="display:block; margin:0 auto; max-width:100%; height:auto; border-radius:6px;">
@@ -63,7 +63,7 @@ Nesta tela o usuário:
 <div align="center" style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
 
   <figure style="margin:0; text-align:center; width:350px;">
-    <img src="./matriz/img/exemplo_borda.png"
+    <img src="./img/exemplo_borda.png"
          alt="Exemplo de imagem com borda branca de 3 px aplicada"
          title="Borda 3 px"
          style="display:block; margin:0 auto; max-width:100%; height:auto; border-radius:6px;">
@@ -71,7 +71,7 @@ Nesta tela o usuário:
   </figure>
 
   <figure style="margin:0; text-align:center; width:350px;">
-    <img src="./matriz/img/exemplo_giro_direita.png"
+    <img src="./img/exemplo_giro_direita.png"
          alt="Exemplo de imagem girada 90 graus no sentido horário"
          title="Giro 90° direita"
          style="display:block; margin:0 auto; max-width:100%; height:auto; border-radius:6px;">
@@ -79,14 +79,12 @@ Nesta tela o usuário:
   </figure>
 
   <figure style="margin:0; text-align:center; width:350px;">
-    <img src="./matriz/img/exemplo_inverter.png"
+    <img src="./img/exemplo_inverter.png"
          alt="Exemplo de imagem com cores invertidas (255 - v)"
          title="Inverter cores"
          style="display:block; margin:0 auto; max-width:100%; height:auto; border-radius:6px;">
     <figcaption style="margin-top:8px; color:#666;"><em>Inverter cores (v → 255 − v)</em></figcaption>
   </figure>
-
-</div>
 
 ## Fluxo da aplicação
 
