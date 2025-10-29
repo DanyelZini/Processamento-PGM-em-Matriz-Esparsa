@@ -85,6 +85,7 @@ Nesta tela o usuário:
          style="display:block; margin:0 auto; max-width:100%; height:auto; border-radius:6px;">
     <figcaption style="margin-top:8px; color:#666;"><em>Inverter cores (v → 255 − v)</em></figcaption>
   </figure>
+</div>
 
 ## Fluxo da aplicação
 
